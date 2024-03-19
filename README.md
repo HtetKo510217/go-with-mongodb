@@ -1,4 +1,4 @@
-# Project Name
+# Simple CRUD application using the MVC pattern with Golang and MongoDB
 
 ## Description
 This project is a CRUD application using the MVC pattern with Golang and MongoDB. It allows users to perform Create, Read, Update, and Delete operations on data stored in a MongoDB database.
